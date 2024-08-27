@@ -32,4 +32,4 @@ If you want to see the mock api on your browser you can hit the link: http://loc
 If you want to learn more on mock API you can go through the doc https://www.npmjs.com/package/json-server
 
 # Project Documentation: 
-https://docs.google.com/document/d/1NdB3SdAbKSFcPooap-ddpHdQQxBDvAieH2bPF4NCLMU/edit?usp=sharing
+https://docs.google.com/document/d/11o05zI-wUVgvP0BHHL523_kO4-Y6GIfs6d_R21yy4jQ/edit
