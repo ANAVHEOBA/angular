@@ -1,0 +1,29 @@
+{
+    "intro": "Bienvenue dans le monde de l'internationalisation",
+    "proj_name": "Portail de commerce B2B",
+    "project_short_desc": "Ce projet est un portail de commerce électronique où certains utilisateurs (vendeurs) souhaitent vendre leurs produits et services, et les utilisateurs (acheteurs / utilisateurs finaux) peuvent acheter ces produits et services auprès des utilisateurs (vendeurs). En plus de ces deux types d'utilisateurs, il y a un autre utilisateur (administrateur) que nous avons nommé administrateur, qui a le contrôle de toutes les opérations, telles que la suppression de produits, l'édition et la mise à jour des acheteurs et des vendeurs.",
+    "view_detail_doc_btn": "Voir le document détaillé",
+    "header": {
+        "ecommerce": "Commerce électronique 2.0",
+        "lang_en": "Anglais (English)",
+        "lang_hn": "Français (French)",
+        "home": "Accueil",
+        "service": "Service",
+        "about_us": "À propos de nous",
+        "contact_us": "Contactez-nous",
+        "order": "Commande",
+        "product": "Produit",
+        "user": "Utilisateur",
+        "search": "Recherche",
+        "signin": "Se connecter",
+        "signup": "S'inscrire",
+        "my_profile": "Mon profil",
+        "logout": "Déconnexion"
+    },
+    "footer": {
+        "year": "2019",
+        "d&d_by": "Conçu et développé par",
+        "my_name": "Srikrushna Pal",
+        "tc": "Conditions d'utilisation"
+    }
+}
